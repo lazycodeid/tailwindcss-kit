@@ -1,0 +1,14 @@
+{
+  "name": "tailwindcss-kit",
+  "version": "1.0.0",
+  "description": "Template TailwindCSS",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./src/tailwind.css -o ./dist/assets/app.css --watch"
+  },
+  "keywords": [],
+  "author": "ilsyaa",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
